@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio! This website showcases my skills, projects, and experience in the field of **Data Analytics**. You can explore the projects I have worked on, along with the technologies I have used and the results I've achieved.
 
-Check out my live portfolio here: [maheenkhalid.github.io](https://maheenkhalid-coder.github.io/)
+Check out my live portfolio here: [maheenkhalid.github.io](https://maheenkhalid-coder.github.io/Data-Analyst-Protfolio/)
 
 ---
 
