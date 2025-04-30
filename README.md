@@ -1,0 +1,63 @@
+# **Maheen Khalid | Data Analytics Portfolio**
+
+Welcome to my personal portfolio! This website showcases my skills, projects, and experience in the field of **Data Analytics**. You can explore the projects I have worked on, along with the technologies I have used and the results I've achieved.
+
+Check out my live portfolio here: [maheenkhalid.github.io](https://maheenkhalid-coder.github.io/)
+
+---
+
+## **About Me**
+
+I'm a **Data Analytics enthusiast** with a background in **Computer Engineering** and experience as a **Software Engineer**. Currently, I'm honing my skills in **Data Analytics**, working with tools like **SQL**, **Python**, **Power BI**, and **Tableau** to uncover insights from data and present them visually.
+
+This portfolio highlights the work I've done as I transition into the field of Data Analytics, showcasing both my technical and problem-solving abilities.
+
+---
+
+## **Projects**
+
+Here are some of the key projects displayed on my portfolio:
+
+- **HR Analytics Dashboard**: A dashboard that visualizes HR metrics like employee satisfaction, performance, gender distribution, and attrition rates.
+- **British Airways Insights**: A dashboard that displays travel and performance metrics from British Airways, including customer feedback, seat comfort, and cabin staff service.
+- **A Survival Analysis of the Titanic**: Investigating how class and age influenced survival during the Titanic disaster to guide equitable ship design improvements.
+- **Representative Call Insights Dashboard**: A detailed performance dashboard analyzing call trends, revenue, ratings, and demographics for five representatives, highlighting key metrics like call volume, duration, and customer satisfaction.
+
+You can view more details and access the live versions of these dashboards through the links on my website.
+
+---
+
+## **Technologies**
+
+- **Languages**: SQL, Python, JavaScript
+- **Tools**: Power BI, Tableau, Excel, Git
+- **Libraries & Frameworks**: Pandas, NumPy, Matplotlib
+- **Other**: GitHub Pages, HTML/CSS for website structure
+
+---
+
+## **Installation**
+
+To view the project locally, follow these steps:
+
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/maheenkhalid/portfolio.git
+    ```
+
+2. **Navigate to the project directory**:
+    ```bash
+    cd portfolio
+    ```
+
+3. **Open the index.html file** in your browser to view the local version of the portfolio.
+
+---
+
+## **Contact**
+
+You can contact me through the following channels:
+
+- **Email**: [maheenkhalid653@gmail.com](mailto:maheenkhalid653@gmail.com)
+- **LinkedIn**: [linkedin.com/in/maheen-khalid](https://www.linkedin.com/in/maheen-khalid-38a0591b0/)
+- **GitHub**: [github.com/maheenkhalid-coder](https://github.com/maheenkhalid-coder)
