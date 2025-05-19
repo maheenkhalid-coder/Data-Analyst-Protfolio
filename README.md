@@ -19,6 +19,7 @@ This portfolio highlights the work I've done as I transition into the field of D
 Here are some of the key projects displayed on my portfolio:
 
 - **HR Analytics Dashboard**: A dashboard that visualizes HR metrics like employee satisfaction, performance, gender distribution, and attrition rates.
+- **Digital Lifestyle & Its Effect on Mental Wellness:** Analyzed the impact of digital habits and lifestyle choices on mental health across age and gender using Python and Tableau. Created interactive dashboards to highlight trends in stress, mood, sleep, and wellness behaviors.
 - **British Airways Insights**: A dashboard that displays travel and performance metrics from British Airways, including customer feedback, seat comfort, and cabin staff service.
 - **A Survival Analysis of the Titanic**: Investigating how class and age influenced survival during the Titanic disaster to guide equitable ship design improvements.
 - **Representative Call Insights Dashboard**: A detailed performance dashboard analyzing call trends, revenue, ratings, and demographics for five representatives, highlighting key metrics like call volume, duration, and customer satisfaction.
