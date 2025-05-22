@@ -18,6 +18,7 @@ This portfolio highlights the work I've done as I transition into the field of D
 
 Here are some of the key projects displayed on my portfolio:
 
+- **Customer Churn Prediction and Insights with Python**: A data-driven project using Python to explore key factors behind customer attrition. Includes data cleaning, EDA, and visualization to uncover insights that support retention strategies.
 - **HR Analytics Dashboard**: A dashboard that visualizes HR metrics like employee satisfaction, performance, gender distribution, and attrition rates.
 - **Digital Lifestyle & Its Effect on Mental Wellness:** Analyzed the impact of digital habits and lifestyle choices on mental health across age and gender using Python and Tableau. Created interactive dashboards to highlight trends in stress, mood, sleep, and wellness behaviors.
 - **British Airways Insights**: A dashboard that displays travel and performance metrics from British Airways, including customer feedback, seat comfort, and cabin staff service.
